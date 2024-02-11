@@ -1,0 +1,33 @@
+
+.pointer {
+    cursor: pointer;
+}
+
+.logo{
+    width: 3% !important;
+}
+
+.title {
+    margin-right: -25px;
+    .img{
+        width: 50% !important;
+    }
+}
+
+.text-decoration-0{
+    text-decoration: none;
+}
+
+.h-300{
+    height: 300px !important;
+    margin: 0 auto;
+}
+
+.bg-timeline{
+    background-image: url('./images/bg-path-marker.jpg');
+    background-repeat: no-repeat;
+}
+
+.w-20{
+    width: 20% !important;
+}
